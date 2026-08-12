@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hong Jaeyoung"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,13 +12,13 @@ redirect_from:
 안녕하세요 저는 **홍재영** 입니다. 만나서 반갑습니다.
 
 현재 HD건설기계에 21년도부터 재직중입니다.
+
 ---
 # 주요 경력
-##AM영업팀
+
 - 2021.03~
 - 2023.06~
 
-##AM기획팀
 
 감사합니다.
 
